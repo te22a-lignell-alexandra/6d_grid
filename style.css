@@ -82,6 +82,10 @@ a{
     font-family: Verdana;
 }
 
+h2{
+    text-align: center;
+}
+
 footer{
     grid-column: 1/4;
     grid-row: 6/7;
